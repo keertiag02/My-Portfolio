@@ -9,5 +9,5 @@
   <li>Translate insights into clear visuals</li>
   <li>Use analytical tools to drive decision-making</li>
 </ul>
-Whether reviewing trends or building models, each project tells a story backed by data.
+<b>Whether reviewing trends or building models, each project tells a story backed by data.</b>
 </p>
