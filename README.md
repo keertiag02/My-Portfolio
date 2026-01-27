@@ -1,2 +1,1 @@
-# My-Portfolio
-Exploring new technologies, one repo at a time.
+<H3>My Portfolio</H3>
