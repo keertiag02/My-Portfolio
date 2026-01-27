@@ -11,7 +11,6 @@
 </ul>
 <b>Whether reviewing trends or building models, each project tells a story backed by data.</b>
 </p>
-<br>
 <p>
   <b>View my Portfolio: </b>https://keertiag02.github.io/My-Portfolio/
 </p>
